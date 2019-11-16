@@ -54,6 +54,8 @@ PDF : [QQActive.pdf](./QQActive.pdf)
 
 ![Server](./Server.png)
 
+> 使用 `.netCore` 实现
+
 ### Client 端
 
 ![Clinet](./client.png)
@@ -68,4 +70,4 @@ PDF : [QQActive.pdf](./QQActive.pdf)
 
 具体指导操作不做表述
 
-> 设定好邮箱发送即可哦
+> 设定好SMTP邮箱配置信息发送即可哦
