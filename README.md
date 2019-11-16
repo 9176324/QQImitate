@@ -58,4 +58,14 @@ PDF : [QQActive.pdf](./QQActive.pdf)
 
 ![Clinet](./client.png)
 
+------------
 
+## 钓鱼使用主界面
+
+> 很暴力,不适合小朋友
+
+![qq](qq_Fish.png)
+
+具体指导操作不做表述
+
+> 设定好邮箱发送即可哦
