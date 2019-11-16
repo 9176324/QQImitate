@@ -1,0 +1,20 @@
+﻿<Window x:Class="QQL.user"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QQL"
+        mc:Ignorable="d"
+        Title="我的小伙伴" Height="627" Width="334">
+    <Grid>
+        <Canvas Name="canvas">
+            <Image HorizontalAlignment="Left" Height="45" 
+                   Canvas.Left="25" Canvas.Top="30" VerticalAlignment="Top" Width="43" RenderTransformOrigin="0.5,0.5" ScrollViewer.CanContentScroll="True" UseLayoutRounding="False" Source="Images/qq.png" Stretch="UniformToFill" Cursor="Hand" MouseLeftButtonUp="Image_MouseLeftButtonUp">
+            </Image>
+            <Label Name="labelCo" Content="127.0.0.1:3355|4466" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="200" FontSize="18" Canvas.Left="85" Canvas.Top="40"/>
+        </Canvas>
+
+
+
+    </Grid>
+</Window>

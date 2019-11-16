@@ -1,0 +1,15 @@
+E:\ALL-WorKdir\C#模仿QQ\server\Server\bin\Release\netcoreapp2.1\Server.deps.json
+E:\ALL-WorKdir\C#模仿QQ\server\Server\bin\Release\netcoreapp2.1\Server.runtimeconfig.json
+E:\ALL-WorKdir\C#模仿QQ\server\Server\bin\Release\netcoreapp2.1\Server.runtimeconfig.dev.json
+E:\ALL-WorKdir\C#模仿QQ\server\Server\bin\Release\netcoreapp2.1\Server.dll
+E:\ALL-WorKdir\C#模仿QQ\server\Server\bin\Release\netcoreapp2.1\Server.pdb
+E:\ALL-WorKdir\C#模仿QQ\server\Server\bin\netcoreapp2.1\Server.deps.json
+E:\ALL-WorKdir\C#模仿QQ\server\Server\bin\netcoreapp2.1\Server.runtimeconfig.json
+E:\ALL-WorKdir\C#模仿QQ\server\Server\bin\netcoreapp2.1\Server.runtimeconfig.dev.json
+E:\ALL-WorKdir\C#模仿QQ\server\Server\bin\netcoreapp2.1\Server.dll
+E:\ALL-WorKdir\C#模仿QQ\server\Server\bin\netcoreapp2.1\Server.pdb
+E:\ALL-WorKdir\C#模仿QQ\server\Server\obj\Release\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+E:\ALL-WorKdir\C#模仿QQ\server\Server\obj\Release\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+E:\ALL-WorKdir\C#模仿QQ\server\Server\obj\Release\netcoreapp2.1\Server.AssemblyInfo.cs
+E:\ALL-WorKdir\C#模仿QQ\server\Server\obj\Release\netcoreapp2.1\Server.dll
+E:\ALL-WorKdir\C#模仿QQ\server\Server\obj\Release\netcoreapp2.1\Server.pdb
